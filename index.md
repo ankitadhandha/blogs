@@ -1,9 +1,12 @@
-###hi
+###
+slug: ntomatica blogs
+date: 2021-04-08
+###
 
-Am going to crate wheat blog here. This is just testing text.
+Welcome to Ontomatica symentic World!!!
 
-New change testing.
+::: {.ui .message}
+Part-blog and part-personal wiki, this is a place where I curate and share useful notes!
 
-Testing again.
 
-Testing again.
+
