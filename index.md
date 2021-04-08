@@ -1,5 +1,5 @@
 ---
-slug: Ontomatica blogs
+title: Ontomatica blogs
 date: 2021-04-08
 ---
 
