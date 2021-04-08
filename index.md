@@ -8,6 +8,7 @@ Welcome to Ontomatica symentic World!!!
 
 ::: {.ui .message}
 Semantic Ontologies
+:::
 
 
 [[z:zettels?tag=blog/**&timeline&cf]]
