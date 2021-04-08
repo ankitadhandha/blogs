@@ -5,3 +5,4 @@ tags:
 ---
 
 # wheat blog
+<div id="commento"></div>
