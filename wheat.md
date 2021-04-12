@@ -4,7 +4,6 @@ tags:
   - blog
 title: Wheat Ontology
 ---
-
 <div class="ui section divider"></div>
 
 There are 8 types of wheat ontologies:
