@@ -17,7 +17,11 @@ There are 8 types of wheat ontologies:
 
 Please [click here](https://afdsi.com/collection/collection-carousel/wheat/) to look into details about wheat ontologies.
 
+<div class="ui section divider"></div>
+
 Please [click here](https://afdsi.com/wheat-ontology-graph/) to look Wheat graph which is defined in terms of Linked data terms and predicates.
+
+<div class="ui section divider"></div>
 
 More about wheat by Norman Borlaug:
 
@@ -25,5 +29,11 @@ Norman Ernest Borlaug (/ˈbɔːrlɔːɡ/; March 25, 1914 – September 12, 2009)
 
 Borlaug received his B.S. in forestry in 1937 and Ph.D. in plant pathology and genetics from the University of Minnesota in 1942. He took up an agricultural research position with CIMMYT in Mexico, where he developed semi-dwarf, high-yield, disease-resistant wheat varieties.[1][2] During the mid-20th century, Borlaug led the introduction of these high-yielding varieties combined with modern agricultural production techniques to Mexico, Pakistan, and India. As a result, Mexico became a net exporter of wheat by 1963. Between 1965 and 1970, wheat yields nearly doubled in Pakistan and India, greatly improving the food security in those nations.[4]. [visit](https://en.wikipedia.org/wiki/Norman_Borlaug) for further information on Wiki.
 
+<div class="ui section divider"></div>
+
 [Norman Borlaug](https://wedge.ontomatica.io/Nobel-Prize-Winners_-_19-09-05/Wedge?q=facet_10:5/facet_32:182/facet_42:808,895&group=facet_20&morelike=1) has won a Noble Prize Winner in Peace.
 
+
+<div class="ui section divider"></div>
+
+<div id="commento"></div>
