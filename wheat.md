@@ -5,6 +5,8 @@ tags:
 title: Wheat Ontology
 ---
 
+<div class="ui section divider"></div>
+
 There are 8 types of wheat ontologies:
 1. Causative relationship
 2. Instrumental relationship
