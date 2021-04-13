@@ -9,3 +9,4 @@ We will list here who won NPW in Peace.
 * [[Malala_Yousafzai]]#
 * [[nadia_murad]]#
 * [[marie_curie]]#
+* [[norman_borlaug]]#
