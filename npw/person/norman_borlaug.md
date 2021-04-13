@@ -10,3 +10,4 @@ title: Norman Borlaug
       - 1970
 - Age at award time
       - 57
+- He has worked on [[wheat]] ontology.
