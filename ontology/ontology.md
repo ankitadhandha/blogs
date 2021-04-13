@@ -1,5 +1,5 @@
 ---
-title: Ontology tree
+title: Ontology
 ---
 
 * [[food]]#
