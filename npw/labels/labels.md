@@ -11,6 +11,7 @@ Winners:
 * [[maurice]]#
 * [[nadia_murad]]#
 * [[william_bragg]]#
+* [[norman_borlaug]]#
 
 Prizes:
 * [[physics]]#
