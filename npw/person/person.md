@@ -10,3 +10,4 @@ title: Person who won Nobel Prize
 * [[maurice]]#
 * [[nadia_murad]]#
 * [[william_bragg]]#
+* [[norman_borlaug]]#
