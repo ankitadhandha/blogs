@@ -3,4 +3,4 @@ title: Nutrition
 ---
 
 
-* [[Agriculture]]#
+* [[agriculture]]#
