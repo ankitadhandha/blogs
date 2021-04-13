@@ -8,3 +8,4 @@ We will list here male winners
 * [[jack_kilby]]#
 * [[maurice]]#
 * [[william_bragg]]#
+* [[norman_borlaug]]#
