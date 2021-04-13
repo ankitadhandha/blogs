@@ -2,7 +2,7 @@
 title: Commodity
 ---
 
- - [[wheat]] is a grass widely cultivated for its seed, a cereal grain which is a worldwide staple food. 
+ - [[wheat]]# is a grass widely cultivated for its seed, a cereal grain which is a worldwide staple food. 
  - There are many species of wheat which together make up the genus Triticum; the most widely grown is common wheat (T. aestivum). 
  - Wheat is grown on more land area than any other food crop. World trade in wheat is greater than for all other crops combined. 
  - Globally, wheat is the leading source of vegetal protein in human food, having a protein content of about 13%, which is relatively high compared to other major cereals and staple foods. 
