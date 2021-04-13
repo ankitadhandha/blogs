@@ -32,7 +32,7 @@ Borlaug received his B.S. in forestry in 1937 and Ph.D. in plant pathology and g
 
 <div class="ui section divider"></div>
 
-[[norman_borlaug]](https://wedge.ontomatica.io/Nobel-Prize-Winners_-_19-09-05/Wedge?q=facet_10:5/facet_32:182/facet_42:808,895&group=facet_20&morelike=1) has won a Noble Prize Winner in [[peace]].
+[[norman_borlaug]](https://wedge.ontomatica.io/Nobel-Prize-Winners_-_19-09-05/Wedge?q=facet_10:5/facet_32:182/facet_42:808,895&group=facet_20&morelike=1) has won a Noble Prize Winner in [[peace]]#.
 
 
 <div class="ui section divider"></div>
