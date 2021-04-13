@@ -1,5 +1,5 @@
 ---
-title: Ontology food
+title: Food
 ---
 
 * [[wheat]]#
