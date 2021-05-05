@@ -10,7 +10,6 @@ Welcome to Ontomatica symentic World!!!
 Semantic Ontologies
 :::
 
-
 [[z:zettels?tag=blog/**&timeline&cf]]
 
 {.ui .horizontal .divider}
